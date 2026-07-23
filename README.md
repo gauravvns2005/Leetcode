@@ -28,4 +28,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/gauravvns2005/Leetcode/tree/main/0046-permutations/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/gauravvns2005/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/gauravvns2005/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/gauravvns2005/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/gauravvns2005/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 <!---LeetCode Topics End-->

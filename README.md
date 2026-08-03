@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/gauravvns2005/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0046-permutations](https://github.com/gauravvns2005/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravvns2005/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0179-largest-number](https://github.com/gauravvns2005/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/gauravvns2005/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/gauravvns2005/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
@@ -24,10 +25,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravvns2005/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauravvns2005/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravvns2005/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/gauravvns2005/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauravvns2005/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Sorting

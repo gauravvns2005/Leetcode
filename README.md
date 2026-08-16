@@ -105,4 +105,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/gauravvns2005/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/gauravvns2005/Leetcode/tree/main/0198-house-robber/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/gauravvns2005/Leetcode/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->

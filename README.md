@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/gauravvns2005/Leetcode/tree/main/0176-second-highest-salary/) | Medium |
+| [0184-department-highest-salary](https://github.com/gauravvns2005/Leetcode/tree/main/0184-department-highest-salary/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |

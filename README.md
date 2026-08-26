@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauravvns2005/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/gauravvns2005/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gauravvns2005/Leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/gauravvns2005/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gauravvns2005/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/gauravvns2005/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/gauravvns2005/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/gauravvns2005/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/gauravvns2005/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gauravvns2005/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gauravvns2005/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/gauravvns2005/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |

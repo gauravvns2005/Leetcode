@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/gauravvns2005/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauravvns2005/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0141-linked-list-cycle](https://github.com/gauravvns2005/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/gauravvns2005/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/gauravvns2005/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauravvns2005/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/gauravvns2005/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravvns2005/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauravvns2005/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
@@ -142,4 +144,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/gauravvns2005/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/gauravvns2005/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/gauravvns2005/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->

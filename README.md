@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/gauravvns2005/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/gauravvns2005/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0046-permutations](https://github.com/gauravvns2005/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0134-gas-station](https://github.com/gauravvns2005/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0137-single-number-ii](https://github.com/gauravvns2005/Leetcode/tree/main/0137-single-number-ii/) | Medium |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/gauravvns2005/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gauravvns2005/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/gauravvns2005/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/gauravvns2005/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/gauravvns2005/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0134-gas-station](https://github.com/gauravvns2005/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0179-largest-number](https://github.com/gauravvns2005/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/gauravvns2005/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |

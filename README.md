@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauravvns2005/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/gauravvns2005/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/gauravvns2005/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/gauravvns2005/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/gauravvns2005/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/gauravvns2005/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/gauravvns2005/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0318-maximum-product-of-word-lengths](https://github.com/gauravvns2005/Leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0383-ransom-note](https://github.com/gauravvns2005/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/gauravvns2005/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/gauravvns2005/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/gauravvns2005/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/gauravvns2005/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Stack
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauravvns2005/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/gauravvns2005/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/gauravvns2005/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/gauravvns2005/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/gauravvns2005/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gauravvns2005/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |

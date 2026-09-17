@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/gauravvns2005/Leetcode/tree/main/0176-second-highest-salary/) | Medium |
 | [0184-department-highest-salary](https://github.com/gauravvns2005/Leetcode/tree/main/0184-department-highest-salary/) | Medium |
+| [1341-movie-rating](https://github.com/gauravvns2005/Leetcode/tree/main/1341-movie-rating/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/gauravvns2005/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gauravvns2005/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/gauravvns2005/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/gauravvns2005/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -211,11 +212,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/gauravvns2005/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0279-perfect-squares](https://github.com/gauravvns2005/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0326-power-of-three](https://github.com/gauravvns2005/Leetcode/tree/main/0326-power-of-three/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/gauravvns2005/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/gauravvns2005/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0326-power-of-three](https://github.com/gauravvns2005/Leetcode/tree/main/0326-power-of-three/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm

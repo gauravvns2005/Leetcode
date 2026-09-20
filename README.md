@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/gauravvns2005/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/gauravvns2005/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0229-majority-element-ii](https://github.com/gauravvns2005/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/gauravvns2005/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0318-maximum-product-of-word-lengths](https://github.com/gauravvns2005/Leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauravvns2005/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/gauravvns2005/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauravvns2005/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/gauravvns2005/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/gauravvns2005/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/gauravvns2005/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gauravvns2005/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/gauravvns2005/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/gauravvns2005/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/gauravvns2005/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/gauravvns2005/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -161,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/gauravvns2005/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/gauravvns2005/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/gauravvns2005/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Bucket Sort
@@ -226,4 +230,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/gauravvns2005/Leetcode/tree/main/0279-perfect-squares/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/gauravvns2005/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/gauravvns2005/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->

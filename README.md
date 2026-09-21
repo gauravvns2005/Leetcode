@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/gauravvns2005/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/gauravvns2005/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0279-perfect-squares](https://github.com/gauravvns2005/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0326-power-of-three](https://github.com/gauravvns2005/Leetcode/tree/main/0326-power-of-three/) | Easy |
 ## Recursion

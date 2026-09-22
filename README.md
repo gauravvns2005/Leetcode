@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/gauravvns2005/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/gauravvns2005/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0046-permutations](https://github.com/gauravvns2005/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0049-group-anagrams](https://github.com/gauravvns2005/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0134-gas-station](https://github.com/gauravvns2005/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0137-single-number-ii](https://github.com/gauravvns2005/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravvns2005/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/gauravvns2005/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauravvns2005/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/gauravvns2005/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/gauravvns2005/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/gauravvns2005/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/gauravvns2005/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/gauravvns2005/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0179-largest-number](https://github.com/gauravvns2005/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0229-majority-element-ii](https://github.com/gauravvns2005/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/gauravvns2005/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -87,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauravvns2005/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/gauravvns2005/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/gauravvns2005/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/gauravvns2005/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0179-largest-number](https://github.com/gauravvns2005/Leetcode/tree/main/0179-largest-number/) | Medium |

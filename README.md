@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/gauravvns2005/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/gauravvns2005/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0279-perfect-squares](https://github.com/gauravvns2005/Leetcode/tree/main/0279-perfect-squares/) | Medium |
+| [0292-nim-game](https://github.com/gauravvns2005/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/gauravvns2005/Leetcode/tree/main/0326-power-of-three/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -246,4 +247,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/gauravvns2005/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/gauravvns2005/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/gauravvns2005/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/gauravvns2005/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/gauravvns2005/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/gauravvns2005/Leetcode/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->

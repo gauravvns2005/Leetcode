@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/gauravvns2005/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/gauravvns2005/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/gauravvns2005/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gauravvns2005/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/gauravvns2005/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/gauravvns2005/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/gauravvns2005/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/gauravvns2005/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
@@ -209,10 +211,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/gauravvns2005/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gauravvns2005/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/gauravvns2005/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gauravvns2005/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -222,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/gauravvns2005/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gauravvns2005/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Math
 | Problem Name | Difficulty |

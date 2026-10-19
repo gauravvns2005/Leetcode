@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/gauravvns2005/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gauravvns2005/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gauravvns2005/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/gauravvns2005/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/gauravvns2005/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauravvns2005/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/gauravvns2005/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/gauravvns2005/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/gauravvns2005/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gauravvns2005/Leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gauravvns2005/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/gauravvns2005/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |

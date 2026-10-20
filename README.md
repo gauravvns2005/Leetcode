@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/gauravvns2005/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0844-backspace-string-compare](https://github.com/gauravvns2005/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauravvns2005/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/gauravvns2005/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/gauravvns2005/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0844-backspace-string-compare](https://github.com/gauravvns2005/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauravvns2005/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/gauravvns2005/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,4 +312,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/gauravvns2005/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/gauravvns2005/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->

@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/gauravvns2005/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0844-backspace-string-compare](https://github.com/gauravvns2005/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauravvns2005/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1544-make-the-string-great](https://github.com/gauravvns2005/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/gauravvns2005/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/gauravvns2005/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/gauravvns2005/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauravvns2005/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1544-make-the-string-great](https://github.com/gauravvns2005/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/gauravvns2005/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |

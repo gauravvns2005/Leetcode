@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gauravvns2005/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gauravvns2005/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauravvns2005/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/gauravvns2005/Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gauravvns2005/Leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gauravvns2005/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauravvns2005/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/gauravvns2005/Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/gauravvns2005/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0292-nim-game](https://github.com/gauravvns2005/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/gauravvns2005/Leetcode/tree/main/0326-power-of-three/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/gauravvns2005/Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,4 +321,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/gauravvns2005/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/gauravvns2005/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/gauravvns2005/Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3886-sum-of-sortable-integers](https://github.com/gauravvns2005/Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 <!---LeetCode Topics End-->

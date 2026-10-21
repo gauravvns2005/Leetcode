@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/gauravvns2005/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/gauravvns2005/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/gauravvns2005/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0739-daily-temperatures](https://github.com/gauravvns2005/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/gauravvns2005/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gauravvns2005/Leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/gauravvns2005/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gauravvns2005/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/gauravvns2005/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0682-baseball-game](https://github.com/gauravvns2005/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/gauravvns2005/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/gauravvns2005/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauravvns2005/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/gauravvns2005/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/gauravvns2005/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0739-daily-temperatures](https://github.com/gauravvns2005/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |

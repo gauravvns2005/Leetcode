@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/gauravvns2005/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/gauravvns2005/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/gauravvns2005/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0058-length-of-last-word](https://github.com/gauravvns2005/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0076-minimum-window-substring](https://github.com/gauravvns2005/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/gauravvns2005/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0179-largest-number](https://github.com/gauravvns2005/Leetcode/tree/main/0179-largest-number/) | Medium |

@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0183-customers-who-never-order](https://github.com/gauravvns2005/Leetcode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/gauravvns2005/Leetcode/tree/main/0184-department-highest-salary/) | Medium |
 | [0595-big-countries](https://github.com/gauravvns2005/Leetcode/tree/main/0595-big-countries/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/gauravvns2005/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1341-movie-rating](https://github.com/gauravvns2005/Leetcode/tree/main/1341-movie-rating/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |

@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/gauravvns2005/Leetcode/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/gauravvns2005/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/gauravvns2005/Leetcode/tree/main/0607-sales-person/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/gauravvns2005/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1341-movie-rating](https://github.com/gauravvns2005/Leetcode/tree/main/1341-movie-rating/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |

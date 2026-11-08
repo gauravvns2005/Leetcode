@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/gauravvns2005/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/gauravvns2005/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/gauravvns2005/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0263-ugly-number](https://github.com/gauravvns2005/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0279-perfect-squares](https://github.com/gauravvns2005/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0292-nim-game](https://github.com/gauravvns2005/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/gauravvns2005/Leetcode/tree/main/0326-power-of-three/) | Easy |

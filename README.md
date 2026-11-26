@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/gauravvns2005/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/gauravvns2005/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/gauravvns2005/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0045-jump-game-ii](https://github.com/gauravvns2005/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/gauravvns2005/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/gauravvns2005/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/gauravvns2005/Leetcode/tree/main/0066-plus-one/) | Easy |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/gauravvns2005/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/gauravvns2005/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0134-gas-station](https://github.com/gauravvns2005/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0179-largest-number](https://github.com/gauravvns2005/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/gauravvns2005/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gauravvns2005/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0045-jump-game-ii](https://github.com/gauravvns2005/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/gauravvns2005/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/gauravvns2005/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/gauravvns2005/Leetcode/tree/main/0198-house-robber/) | Medium |

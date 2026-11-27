@@ -12,31 +12,36 @@ class Solution {
 public:
 
 
-    // ListNode* Reverse(ListNode* curr, ListNode* prev)
-    // {
-    //     if(curr == NULL)
-    //     {
-    //         return prev;
-    //     }
+    ListNode* Reverse(ListNode* curr, ListNode* prev)
+    {
+        if(curr == NULL)
+        {
+            return prev;
+        }
 
-    //     ListNode* temp = curr->next;
-    //     curr -> next = prev;
-    //     return Reverse(temp, curr); 
-    // }
+        ListNode* temp = curr->next;
+        curr -> next = prev;
+        return Reverse(temp, curr); 
+    }
 
 
 
     ListNode* reverseList(ListNode* head) {
-        ListNode* curr = head, *temp = NULL, *prev = NULL;
+        // ListNode* curr = head, *temp = NULL, *prev = NULL;
 
-        while(curr != NULL){
-            temp = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = temp;
-        }
+        // while(curr != NULL){
+        //     temp = curr->next;
+        //     curr->next = prev;
+        //     prev = curr;
+        //     curr = temp;
+        // }
 
-        head = prev;
-        return  head;
+        // head = prev;
+        // return  head;
+
+
+
+        // recursive approach
+        return Reverse(head, NULL);
     }
 };

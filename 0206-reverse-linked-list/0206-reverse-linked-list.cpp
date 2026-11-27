@@ -12,70 +12,31 @@ class Solution {
 public:
 
 
-    ListNode* Reverse(ListNode* curr, ListNode* prev)
-    {
-        if(curr == NULL)
-        {
-            return prev;
-        }
+    // ListNode* Reverse(ListNode* curr, ListNode* prev)
+    // {
+    //     if(curr == NULL)
+    //     {
+    //         return prev;
+    //     }
 
-        ListNode* temp = curr->next;
-        curr -> next = prev;
-        return Reverse(temp, curr); 
-    }
+    //     ListNode* temp = curr->next;
+    //     curr -> next = prev;
+    //     return Reverse(temp, curr); 
+    // }
 
 
 
     ListNode* reverseList(ListNode* head) {
+        ListNode* curr = head, *temp = NULL, *prev = NULL;
 
-        // ===== brute force approach using extra space ====
+        while(curr != NULL){
+            temp = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = temp;
+        }
 
-        // vector<int> ans;
-
-        // ListNode* temp = head;
-
-        // while(temp != NULL)
-        // {
-        //     ans.push_back(temp->val);
-        //     temp = temp->next;
-        // }
-
-        // int i = ans.size()-1;
-        // temp = head;
-        // while(temp )
-        // {
-        //     temp->val = ans[i];
-        //     i--;
-        //     temp = temp->next;
-        // }
-
-        // return head;
-
-
-
-        // === other method : sing an in-place pointer reversal approach where I reverse the links between nodes, achieving O(1) space.===
-        // ListNode* curr = head, *prev = NULL, *temp = NULL;
-
-        // while(curr != NULL)
-        // {
-        //     temp = curr -> next;
-        //     curr -> next = prev;
-        //     prev = curr;
-        //     curr = temp; 
-        // }
-
-        // head = prev;
-        // return head;
-
-
-
-
-
-
-
-
-        // ==== recursive apporach =====
-
-        return Reverse(head, NULL);
+        head = prev;
+        return  head;
     }
 };

@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/gauravvns2005/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/gauravvns2005/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/gauravvns2005/Leetcode/tree/main/0137-single-number-ii/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/gauravvns2005/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravvns2005/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0179-largest-number](https://github.com/gauravvns2005/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/gauravvns2005/Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/gauravvns2005/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/gauravvns2005/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/gauravvns2005/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/gauravvns2005/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/gauravvns2005/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/gauravvns2005/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/gauravvns2005/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |

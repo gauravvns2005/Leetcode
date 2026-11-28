@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gauravvns2005/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gauravvns2005/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauravvns2005/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauravvns2005/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/gauravvns2005/Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/gauravvns2005/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/gauravvns2005/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gauravvns2005/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauravvns2005/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauravvns2005/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/gauravvns2005/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauravvns2005/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauravvns2005/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gauravvns2005/Leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gauravvns2005/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauravvns2005/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauravvns2005/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/gauravvns2005/Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
